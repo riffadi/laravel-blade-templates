@@ -11,4 +11,4 @@ Latihan laravel blade templates dengan AdminLTE.
 
     php artisan serve
 
-[AdminLTE](https://adminlte.io)
+Download template [AdminLTE](https://adminlte.io)
