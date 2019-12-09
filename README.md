@@ -7,7 +7,7 @@ Latihan laravel blade templates dengan AdminLTE.
 
     cd laravel-blade-templates
 
-    composer installe
+    composer install
 
     php artisan serve
 
